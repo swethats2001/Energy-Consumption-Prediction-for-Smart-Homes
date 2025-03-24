@@ -1,7 +1,15 @@
 # Energy-Consumption-Prediction-for-Smart-Homes
 
-📌 Goal:
-To develop a regression model that predicts the energy consumption of home appliances based on various environmental factors like temperature, humidity, outdoor conditions, and wind speed.
+This project builds a regression model to predict home appliance energy consumption based on temperature, humidity, and environmental factors. The goal is to help in smart energy management and efficiency optimization.
+
+📊 Steps Followed
+1️⃣ Data Preprocessing
+- Handled missing values
+- Removed outliers using Z-score & IQR
+- Checked and reduced skewness
+2️⃣ Exploratory Data Analysis (EDA)
+- Created histograms, boxplots, and heatmaps
+- Identified feature correlations
 
 🛠️ Why is This Project Important?
 1. Smart Energy Management 🔋
