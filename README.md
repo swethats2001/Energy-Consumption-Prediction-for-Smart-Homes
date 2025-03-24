@@ -3,11 +3,11 @@
 This project builds a regression model to predict home appliance energy consumption based on temperature, humidity, and environmental factors. The goal is to help in smart energy management and efficiency optimization.
 
 📊 Steps Followed
-1️⃣ Data Preprocessing
+1️. Data Preprocessing
 - Handled missing values
 - Removed outliers using Z-score & IQR
 - Checked and reduced skewness
-2️⃣ Exploratory Data Analysis (EDA)
+2️. Exploratory Data Analysis (EDA)
 - Created histograms, boxplots, and heatmaps
 - Identified feature correlations
 
@@ -22,7 +22,10 @@ This project builds a regression model to predict home appliance energy consumpt
 8. Identifies abnormal energy consumption patterns that might indicate faulty appliances.
 
 🔍 Why is This Project Unique?
-✅ Real-World Impact – Helps in designing energy-efficient homes.
-✅ Smart Home Integration – Can work with IoT-based smart systems.
-✅ Sustainability Focus – Reduces electricity consumption and promotes eco-friendly living.
+1. Real-World Impact
+   – Helps in designing energy-efficient homes.
+2. Smart Home Integration
+   – Can work with IoT-based smart systems.
+3. Sustainability Focus
+   – Reduces electricity consumption and promotes eco-friendly living.
 
